@@ -1,0 +1,16 @@
+<properties>
+    <property id="appVersion" type="string">1.0.0</property>
+    <property id="UCFG_DATA_TYPE" type="number">1</property>
+    <property id="UCFG_MAIN_DATA_CALC_TYPE" type="number">1</property>
+    <property id="UCFG_MINOR_TOP_LABEL" type="string"></property>
+    <property id="UCFG_MINOR_BOTTOM_LABEL" type="string"></property>
+    <property id="UCFG_MINOR_TOP_DATA_CALC_TYPE" type="number">1</property>
+    <property id="UCFG_MINOR_BOTTOM_DATA_CALC_TYPE" type="number">1</property>
+    <property id="UCFG_ZONE1" type="number">100</property>
+    <property id="UCFG_ZONE2" type="number">140</property>
+    <property id="UCFG_ZONE3" type="number">155</property>
+    <property id="UCFG_ZONE4" type="number">170</property>
+    <property id="UCFG_ZONE5" type="number">180</property>
+    <property id="UCFG_ZONE6" type="number">185</property>
+    <property id="UCFG_ZONE7" type="number">240</property>
+</properties>

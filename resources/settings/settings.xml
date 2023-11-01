@@ -1,0 +1,104 @@
+<settings>
+    <setting propertyKey="@Properties.UCFG_DATA_TYPE" title="@Strings.Settings_DataType">
+        <settingConfig type="list">
+            <listEntry value="0">Power</listEntry>
+            <listEntry value="1">Speed</listEntry>
+            <listEntry value="2">Heart rate</listEntry>
+            <listEntry value="3">Cadence</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_MAIN_DATA_CALC_TYPE" title="@Strings.Settings_MainDataCalcType_Title">
+        <settingConfig type="list">
+            <listEntry value="0">Disable</listEntry>
+            <listEntry value="1">Current</listEntry>
+            <listEntry value="2">Max</listEntry>
+            <listEntry value="3">Average</listEntry>
+            <listEntry value="4">3s average</listEntry>
+            <listEntry value="5">5s average</listEntry>
+            <listEntry value="6">10s average</listEntry>
+            <listEntry value="7">30s average</listEntry>
+            <listEntry value="8">Before 3s average</listEntry>
+            <listEntry value="9">Before 5s average</listEntry>
+            <listEntry value="10">Before 10s average</listEntry>
+            <listEntry value="11">Before 30s average</listEntry>
+            <listEntry value="12">Max</listEntry>
+            <listEntry value="13">Average</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_MINOR_TOP_DATA_CALC_TYPE" title="@Strings.Settings_MinorTopDataCalcType_Title">
+        <settingConfig type="list">
+            <listEntry value="0">Disable</listEntry>
+            <listEntry value="1">Current</listEntry>
+            <listEntry value="2">Max</listEntry>
+            <listEntry value="3">Average</listEntry>
+            <listEntry value="4">3s average</listEntry>
+            <listEntry value="5">5s average</listEntry>
+            <listEntry value="6">10s average</listEntry>
+            <listEntry value="7">30s average</listEntry>
+            <listEntry value="8">Before 3s average</listEntry>
+            <listEntry value="9">Before 5s average</listEntry>
+            <listEntry value="10">Before 10s average</listEntry>
+            <listEntry value="11">Before 30s average</listEntry>
+            <listEntry value="12">Max</listEntry>
+            <listEntry value="13">Average</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_MINOR_TOP_LABEL" title="@Strings.Settings_MinorTopLabel_Title">
+       <settingConfig type="alphaNumeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_MINOR_BOTTOM_LABEL" title="@Strings.Settings_MinorBottomLabel_Title">
+       <settingConfig type="alphaNumeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_MINOR_BOTTOM_DATA_CALC_TYPE" title="@Strings.Settings_MinorBottomCalcType_Title">
+        <settingConfig type="list">
+            <listEntry value="0">Disable</listEntry>
+            <listEntry value="1">Current</listEntry>
+            <listEntry value="2">Max</listEntry>
+            <listEntry value="3">Average</listEntry>
+            <listEntry value="4">3s average</listEntry>
+            <listEntry value="5">5s average</listEntry>
+            <listEntry value="6">10s average</listEntry>
+            <listEntry value="7">30s average</listEntry>
+            <listEntry value="8">Before 3s average</listEntry>
+            <listEntry value="9">Before 5s average</listEntry>
+            <listEntry value="10">Before 10s average</listEntry>
+            <listEntry value="11">Before 30s average</listEntry>
+            <listEntry value="12">Max</listEntry>
+            <listEntry value="13">Average</listEntry>
+        </settingConfig>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_ZONE1" title="ZONE1">
+       <settingConfig type="numeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_ZONE2" title="ZONE2">
+       <settingConfig type="numeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_ZONE3" title="ZONE3">
+       <settingConfig type="numeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_ZONE4" title="ZONE4">
+       <settingConfig type="numeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_ZONE5" title="ZONE5">
+       <settingConfig type="numeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_ZONE6" title="ZONE6">
+       <settingConfig type="numeric"/>
+    </setting>
+
+    <setting propertyKey="@Properties.UCFG_ZONE7" title="ZONE7">
+       <settingConfig type="numeric"/>
+    </setting>
+
+</settings>

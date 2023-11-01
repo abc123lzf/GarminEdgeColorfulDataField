@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">ColorfulRideDataField</string>
+    <string id="label">My Value</string>
+
+    <string id="Settings_DataType">Data type</string>
+    <string id="Settings_MainDataCalcType_Title">Main data</string>
+    <string id="Settings_MinorTopDataCalcType_Title">Minor top data</string>
+    <string id="Settings_MinorBottomCalcType_Title">Minor bottom data</string>
+    <string id="Settings_MinorTopLabel_Title">Minor top label</string>
+    <string id="Settings_MinorBottomLabel_Title">Minor bottom label</string>
+
+</strings>
